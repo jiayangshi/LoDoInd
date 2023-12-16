@@ -1,0 +1,23 @@
+name: denoise-ct
+channels:
+  - pytorch
+  - aahendriksen
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=11.1.1
+  - h5py
+  - hdf5
+  - msd_pytorch=0.10.1
+  - numpy
+  - python=3.9
+  - pytorch=1.8.1
+  - tifffile=2023.4.12
+  - scikit-image=0.19.2
+  - tqdm
+  - pip
+  
+  - pip:
+      - matplotlib
+      - git+https://github.com/jiayangshi/pcfv.git
+prefix: /home/shij3/miniconda3/envs/denoise-ct
