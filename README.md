@@ -1,6 +1,6 @@
 # LoDoInd
 
-This repository accompanies the paper "LoDoInd: Introducing A Benchmark Low-dose Industrial CT Dataset and Enhancing Denoising with 2.5D Deep Learning Techniques."
+This repository accompanies the paper "[LoDoInd: Introducing A Benchmark Low-dose Industrial CT Dataset and Enhancing Denoising with 2.5D Deep Learning Techniques.](https://www.ndt.net/article/ctc2024/papers/Contribution_187.pdf)"
 
 ## Abstract
 Computed Tomography (CT) is a widely employed non-destructive testing tool. In industrial applications, minimizing scanning time is crucial for efficient in-line inspection. One approach to achieve faster scanning is through low-dose CT. However, the reduction in radiation dose results in increased noise levels in the reconstructed CT images. Deep learning-based post-processing methods have shown promise in mitigating this noise, but their effectiveness relies on access to datasets with a substantial amount of training data. 
