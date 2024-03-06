@@ -52,6 +52,6 @@ Building upon the foundation set by **LoDoInd**, we further investigate the effi
 
 - For 3D training, set mode to '3D':
 ```python
-    python convert3h5.py
+    python convert2h5.py
     python train.py
 ```
